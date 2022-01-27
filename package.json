@@ -1,0 +1,17 @@
+{
+  "name": "vuepress-quick-start",
+  "version": "1.0.0",
+  "description": "vuepress-quick-start",
+  "main": "index.js",
+  "author": "Guany",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.9.7",
+    "@vuepress/plugin-medium-zoom": "^1.9.7",
+    "vuepress": "^1.9.7"
+  }
+}
