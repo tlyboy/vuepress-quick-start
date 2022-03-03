@@ -7,7 +7,8 @@ module.exports = {
       'meta',
       {
         name: 'viewport',
-        content: 'width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0 ,maximum-scale=1.0'
+        content:
+          'width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0 ,maximum-scale=1.0'
       }
     ],
     [
@@ -32,7 +33,7 @@ module.exports = {
     }
   },
   themeConfig: {
-    logo: '/favicon.png',
+    logo: '/hero.png',
     nav: [{ text: '文档简介', link: '/guide/' }],
     sidebarDepth: 2,
     sidebar: {

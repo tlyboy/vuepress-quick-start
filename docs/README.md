@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /favicon.png
+heroImage: /hero.png
 heroText: vuepress-quick-start
 tagline: By：tlyboy
 actionText: 文档简介 →
