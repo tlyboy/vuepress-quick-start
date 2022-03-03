@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /hero.png
+heroImage: https://cdn.jsdelivr.net/gh/tlyboy/assets/logo.png
 heroText: vuepress-quick-start
 tagline: By：tlyboy
 actionText: 文档简介 →
