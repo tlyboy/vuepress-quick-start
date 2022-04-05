@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: /hero.png
-heroText: vuepress-quick-start
-tagline: By：tlyboy
+heroText: VuePress 快速上手
+tagline: 作者：tlyboy
 actionText: 文档简介 →
 actionLink: /guide/
 features:

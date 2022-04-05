@@ -1,14 +1,13 @@
 module.exports = {
   base: '/vuepress-quick-start/',
-  title: 'vuepress-quick-start',
-  description: 'vuepress-quick-start',
+  title: 'VuePress 快速上手',
+  description: 'VuePress 快速上手',
   head: [
     [
       'meta',
       {
         name: 'viewport',
-        content:
-          'width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0 ,maximum-scale=1.0'
+        content: 'width=device-width,initial-scale=1,user-scalable=no'
       }
     ],
     [
@@ -39,7 +38,7 @@ module.exports = {
     sidebar: {
       '/guide/': ['']
     },
-    lastUpdated: '上次更新：',
+    lastUpdated: '上次更新',
     repo: 'tlyboy/vuepress-quick-start',
     repoLabel: 'GitHub',
     docsRepo: 'tlyboy/vuepress-quick-start',
@@ -49,7 +48,6 @@ module.exports = {
     editLinkText: '在 GitHub 上编辑此页',
     smoothScroll: true
   },
-  plugins: ['@vuepress/back-to-top', '@vuepress/medium-zoom'],
   markdown: {
     lineNumbers: true
   }
