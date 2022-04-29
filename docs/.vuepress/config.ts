@@ -1,9 +1,8 @@
 import { defineConfig } from 'vuepress/config'
 
 export default defineConfig({
-  title: 'VuePress 快速上手',
-  description: 'vuepress-quick-start 是一个简单的 vuepress 入门项目。',
   base: '/vuepress-quick-start/',
+  description: 'vuepress-quick-start 是一个简单的 vuepress 入门项目。',
   head: [
     [
       'meta',
@@ -53,5 +52,6 @@ export default defineConfig({
     sidebar: 'auto',
     sidebarDepth: 2,
     smoothScroll: true
-  }
+  },
+  title: 'VuePress 快速上手'
 })
