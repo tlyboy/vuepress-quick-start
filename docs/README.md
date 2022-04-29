@@ -1,5 +1,4 @@
 ---
-title: 首页
 home: true
 heroImage: /hero.png
 heroText: VuePress 快速上手
