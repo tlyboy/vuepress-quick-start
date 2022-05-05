@@ -1,7 +1,7 @@
 {
   "name": "vuepress-quick-start",
   "version": "1.0.0",
-  "description": "vuepress-quick-start 是一个简单的 VuePress 入门项目",
+  "description": "VuePress 快速上手",
   "license": "MIT",
   "author": "Guany",
   "main": "index.js",
