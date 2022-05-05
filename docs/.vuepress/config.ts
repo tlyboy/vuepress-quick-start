@@ -30,7 +30,7 @@ export default defineConfig({
     '/': {
       lang: 'zh-CN',
       title: 'VuePress 快速上手',
-      description: 'vuepress-quick-start 是一个简单的 vuepress 入门项目。'
+      description: 'vuepress-quick-start 是一个简单的 vuepress 入门项目'
     }
   },
   markdown: {
