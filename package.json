@@ -4,7 +4,6 @@
   "description": "VuePress 快速上手",
   "license": "MIT",
   "author": "Guany",
-  "main": "index.js",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
