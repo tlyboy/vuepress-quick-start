@@ -1,7 +1,6 @@
 import { defineConfig } from 'vuepress/config'
 
 export default defineConfig({
-  base: '/vuepress-quick-start/',
   description: 'vuepress-quick-start 是一个简单的 vuepress 入门项目',
   head: [
     [
