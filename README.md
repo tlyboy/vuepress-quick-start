@@ -1,6 +1,6 @@
 <p align="center">
   <a
-    href="https://github.com/tlyboy"
+    href="https://vuepress-quick-start.netlify.app/"
     target="_blank"
     rel="noopener noreferrer"
   >
