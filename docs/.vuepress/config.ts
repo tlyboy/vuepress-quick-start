@@ -49,7 +49,7 @@ export default defineConfig({
       { text: '文档简介', link: '/guide/' }
     ],
     repo: 'tlyboy/vuepress-quick-start',
-    sidebar: {},
+    sidebar: 'auto',
     sidebarDepth: 2,
     smoothScroll: true
   },
