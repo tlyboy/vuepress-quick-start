@@ -33,6 +33,9 @@ vuepress-quick-start 是一个简单的 VuePress 入门项目。
 
 ```bash
 npm i -g tiged
+```
+
+```bash
 degit https://github.com/tlyboy/vuepress-quick-start.git my-new-project
 ```
 
