@@ -1,6 +1,7 @@
 import { defineConfig } from 'vuepress/config'
 
 export default defineConfig({
+  title: 'VuePress 快速上手',
   description: 'vuepress-quick-start 是一个简单的 vuepress 入门项目',
   head: [
     [
@@ -33,31 +34,24 @@ export default defineConfig({
       description: 'vuepress-quick-start 是一个简单的 vuepress 入门项目'
     }
   },
-  markdown: {
-    lineNumbers: true
-  },
   themeConfig: {
-    docsBranch: 'main',
-    docsDir: 'docs',
-    docsRepo: 'tlyboy/vuepress-quick-start',
-    editLinkText: '在 GitHub 上编辑此页',
-    editLinks: true,
-    lastUpdated: '上次更新',
     logo: '/assets/img/logo.png',
     nav: [
-      {
-        text: '首页',
-        link: '/'
-      },
-      {
-        text: '文档简介',
-        link: '/guide/'
-      }
+      { text: '首页', link: '/' },
+      { text: '文档简介', link: '/guide/' }
     ],
-    repo: 'tlyboy/vuepress-quick-start',
     sidebar: 'auto',
     sidebarDepth: 2,
+    lastUpdated: '上次更新',
+    repo: 'tlyboy/vuepress-quick-start',
+    docsRepo: 'tlyboy/vuepress-quick-start',
+    docsDir: 'docs',
+    docsBranch: 'main',
+    editLinks: true,
+    editLinkText: '在 GitHub 上编辑此页',
     smoothScroll: true
   },
-  title: 'VuePress 快速上手'
+  markdown: {
+    lineNumbers: true
+  }
 })
