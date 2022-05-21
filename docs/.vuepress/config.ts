@@ -37,8 +37,14 @@ export default defineConfig({
   themeConfig: {
     logo: '/assets/img/logo.png',
     nav: [
-      { text: '首页', link: '/' },
-      { text: '文档简介', link: '/guide/' }
+      {
+        text: '首页',
+        link: '/'
+      },
+      {
+        text: '文档简介',
+        link: '/guide/'
+      }
     ],
     sidebar: 'auto',
     sidebarDepth: 2,
