@@ -45,8 +45,14 @@ export default defineConfig({
     lastUpdated: '上次更新',
     logo: '/assets/img/logo.png',
     nav: [
-      { text: '首页', link: '/' },
-      { text: '文档简介', link: '/guide/' }
+      {
+        text: '首页',
+        link: '/'
+      },
+      {
+        text: '文档简介',
+        link: '/guide/'
+      }
     ],
     repo: 'tlyboy/vuepress-quick-start',
     sidebar: 'auto',
