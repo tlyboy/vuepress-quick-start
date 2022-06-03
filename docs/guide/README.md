@@ -12,6 +12,10 @@ vuepress-quick-start 是一个简单的 VuePress 入门项目。
 degit https://github.com/tlyboy/vuepress-quick-start.git my-new-project
 ```
 
+## 相关仓库
+
+- [vuepress](https://github.com/vuejs/vuepress) — 📝 Minimalistic Vue-powered static site generator
+
 ## 使用许可
 
 [MIT](https://github.com/tlyboy/vuepress-quick-start/blob/main/LICENSE) © Guany
