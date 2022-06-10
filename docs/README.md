@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /hero.png
+heroImage: /assets/img/hero.png
 heroText: VuePress 快速上手
 tagline: 作者：tlyboy
 actionText: 文档简介 →
