@@ -2,7 +2,7 @@ import { defineConfig } from 'vuepress/config'
 
 export default defineConfig({
   title: 'VuePress 快速上手',
-  description: 'vuepress-quick-start 是一个简单的 vuepress 入门项目',
+  description: '一个简单的 VuePress 应用',
   head: [
     [
       'meta',
@@ -31,7 +31,7 @@ export default defineConfig({
     '/': {
       lang: 'zh-CN',
       title: 'VuePress 快速上手',
-      description: 'vuepress-quick-start 是一个简单的 vuepress 入门项目'
+      description: '一个简单的 VuePress 应用'
     }
   },
   themeConfig: {
