@@ -2,7 +2,7 @@
   "name": "vuepress-quick-start",
   "version": "1.0.0",
   "private": true,
-  "description": "🚀 VuePress 快速上手",
+  "description": "VuePress 快速上手",
   "license": "MIT",
   "author": "Guany",
   "scripts": {
