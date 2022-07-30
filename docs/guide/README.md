@@ -14,7 +14,7 @@ npx degit tlyboy/vuepress-quick-start my-new-project
 
 ## 相关仓库
 
-- [vuepress](https://github.com/vuejs/vuepress) — 📝 Minimalistic Vue-powered static site generator
+- [vuepress](https://github.com/vuejs/vuepress) — Minimalistic Vue-powered static site generator
 
 ## 使用许可
 
