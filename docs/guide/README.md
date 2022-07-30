@@ -9,7 +9,7 @@ sidebar: false
 ## 使用说明
 
 ```bash
-npx degit https://github.com/tlyboy/vuepress-quick-start.git my-new-project
+npx degit tlyboy/vuepress-quick-start my-new-project
 ```
 
 ## 相关仓库
